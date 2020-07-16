@@ -1,2 +1,5 @@
 test
+<<<<<<< HEAD
 test2
+=======
+>>>>>>> origin/master
